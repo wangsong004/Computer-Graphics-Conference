@@ -126,25 +126,4 @@
 
 ---
 
-## 6. 如果你是做传统图形学 / 几何处理，建议重点关注
 
-1. SIGGRAPH
-2. SIGGRAPH Asia
-3. Eurographics
-4. SGP
-5. EGSR
-6. Pacific Graphics
-7. HPG
-8. I3D
-9. GMP
-
----
-
-## 7. 可继续扩展的字段（你后面可以自己补）
-
-- **截稿时间**
-- **通知时间**
-- **是否有 Journal Track**
-- **是否偏理论 / 工程 / 系统 / 应用**
-- **CCF / CORE / Google Scholar 排名**
-- **是否适合几何处理方向投稿**
