@@ -68,8 +68,8 @@
 
 ### IMR
 - **全称**：SIAM International Meshing Roundtable Workshop
-- **主页**：`https://www.siam.org/conferences-events/siam-conferences/imr26/`
-- **官方系列页**：`https://internationalmeshingroundtable.com/`
+- **主页**：https://www.siam.org/conferences-events/siam-conferences/imr26/
+- **官方系列页**：https://internationalmeshingroundtable.com/
 - **研究方向**：网格生成（meshing / grid generation）、非结构网格、表面与体网格、网格优化、并行网格处理、前处理技术、科学计算相关几何离散化
 - **2026 时间**：2026-03-03 ～ 2026-03-06
 - **地点**：Berlin, Germany
