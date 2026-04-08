@@ -75,6 +75,15 @@
 - **地点**：Berlin, Germany
 - **备注**：mesh generation 方向最有代表性的系列会议之一，偏数值计算 / 科学计算 / 几何离散化；2026 年与 SIAM PP26 同期同地举办
 
+### CDFAM Barcelona
+- **全称**：CDFAM Computational Design Symposium
+- **主页**：https://cdfam.com/barcelona-2026/
+- **官方系列页**：https://cdfam.com/
+- **研究方向**：计算设计（computational design）、工程设计自动化、AI/ML for engineering、建筑与制造、隐式建模、几何表达、仿真驱动设计
+- **2026 时间**：2026-04-08 ～ 2026-04-09
+- **地点**：Barcelona Biomedical Research Park (PRBB), Barcelona, Spain
+- **备注**：不是传统纯图形学会议，更偏 computational design / engineering / additive manufacturing；但 2026 巴塞罗那议程中包含 **“Bridging Data to Geometry with Implicit Modeling”**，和隐式建模方向比较相关
+
 ---
 
 ## 3. 渲染 / 实时图形 / 图形系统
