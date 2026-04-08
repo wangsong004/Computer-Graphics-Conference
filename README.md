@@ -66,6 +66,15 @@
 - **地点**：Pilsen, Czech Republic
 - **备注**：偏 geometric modeling / processing
 
+### IMR
+- **全称**：SIAM International Meshing Roundtable Workshop
+- **主页**：`https://www.siam.org/conferences-events/siam-conferences/imr26/`
+- **官方系列页**：`https://internationalmeshingroundtable.com/`
+- **研究方向**：网格生成（meshing / grid generation）、非结构网格、表面与体网格、网格优化、并行网格处理、前处理技术、科学计算相关几何离散化
+- **2026 时间**：2026-03-03 ～ 2026-03-06
+- **地点**：Berlin, Germany
+- **备注**：mesh generation 方向最有代表性的系列会议之一，偏数值计算 / 科学计算 / 几何离散化；2026 年与 SIAM PP26 同期同地举办
+
 ---
 
 ## 3. 渲染 / 实时图形 / 图形系统
